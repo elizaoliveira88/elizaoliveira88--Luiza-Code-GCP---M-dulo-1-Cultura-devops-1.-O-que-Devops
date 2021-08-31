@@ -7,68 +7,32 @@ Acompanhamento de aprendizado do curso
 
 ## Modulo-1-Cultura-devops-1.-O-que-DeVops
 
+Pessoas e sua capacidade de se relacionarem e trocarem experiências. DEV e OPS em ambiente corporativo com liberdade de expressarem suas ideias.
+
+
+## Cultura DeVolps
+- Destrua silos
+- Interação entre equipes
+- Estar aberto a novas opções
+- Parar de culpa
+- Cominicação aberta com todos
+- Envolver toda a equipe nos processos e decisões
+- Sempre pergunte
+- Nunca diga Nunca
+- Fazer stand-ups diários
+## Pontos obrigatórios DeVops
+- Colaboração entre a equipe de Dev e Ops
+- Ciclo de entregas rápidas
+- Desenvolvimento Ágil
+- Integração e entrega contínua
+- Gerenciamento de configurações de softwares
+- Centralização de logs
+- Monitoramento e coletas de dados métricas
+- Infraestrutura escalável e automatizada
 
 
 
-
-
-
-<!-- # Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
-
-# Como executar o projeto
-
-## Back end
-Pré-requisitos: Java 11
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
-
-# Autor -->
-
-
-
-
-
-
+## CI & CD
+- Integração Contínua e Entrega Contínua
 
 
